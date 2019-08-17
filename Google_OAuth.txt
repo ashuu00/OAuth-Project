@@ -1,0 +1,6 @@
+Go to console.developers.google.com for getting google api and 
+services page
+after that create new project and their search for google+ api.
+Their go to credentials and then create one client id.
+Consent Screen is the screen which appears when the user tries to take 
+permission from us.
